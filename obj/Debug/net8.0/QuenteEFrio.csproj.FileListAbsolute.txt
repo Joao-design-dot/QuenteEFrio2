@@ -1,0 +1,14 @@
+C:\Users\João\QuenteEFrio\bin\Debug\net8.0\QuenteEFrio.exe
+C:\Users\João\QuenteEFrio\bin\Debug\net8.0\QuenteEFrio.deps.json
+C:\Users\João\QuenteEFrio\bin\Debug\net8.0\QuenteEFrio.runtimeconfig.json
+C:\Users\João\QuenteEFrio\bin\Debug\net8.0\QuenteEFrio.dll
+C:\Users\João\QuenteEFrio\bin\Debug\net8.0\QuenteEFrio.pdb
+C:\Users\João\QuenteEFrio\obj\Debug\net8.0\QuenteEFrio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\QuenteEFrio\obj\Debug\net8.0\QuenteEFrio.AssemblyInfoInputs.cache
+C:\Users\João\QuenteEFrio\obj\Debug\net8.0\QuenteEFrio.AssemblyInfo.cs
+C:\Users\João\QuenteEFrio\obj\Debug\net8.0\QuenteEFrio.csproj.CoreCompileInputs.cache
+C:\Users\João\QuenteEFrio\obj\Debug\net8.0\QuenteEFrio.dll
+C:\Users\João\QuenteEFrio\obj\Debug\net8.0\refint\QuenteEFrio.dll
+C:\Users\João\QuenteEFrio\obj\Debug\net8.0\QuenteEFrio.pdb
+C:\Users\João\QuenteEFrio\obj\Debug\net8.0\QuenteEFrio.genruntimeconfig.cache
+C:\Users\João\QuenteEFrio\obj\Debug\net8.0\ref\QuenteEFrio.dll

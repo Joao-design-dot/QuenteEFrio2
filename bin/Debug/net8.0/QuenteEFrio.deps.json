@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "QuenteEFrio/1.0.0": {
+        "runtime": {
+          "QuenteEFrio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuenteEFrio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
